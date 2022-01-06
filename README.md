@@ -13,7 +13,7 @@ Add `vite-plugin-relay` and `relay` to your project.
 
 ```bash
 yarn add react-relay relay-runtime
-yarn add -D relay-compiler relay-config vite-plugin-relay
+yarn add -D relay-compiler vite-plugin-relay
 ```
 
 Next setup NPM scripts in the `package.json`. One is required for Vite and the other for the Relay Compiler
